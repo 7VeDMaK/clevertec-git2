@@ -4,4 +4,5 @@ public class Library {
     public Book[] getBooks() {
         return books;
     }
+    public void setBooks(Book[] books) {}
 }
